@@ -51,10 +51,10 @@ public class IngestaSensores {
         System.out.println("====================================================");
         System.out.println();
 
-        BancoDePruebas.experimentoUno();
-        BancoDePruebas.experimentoDos();
-        BancoDePruebas.experimentoTres();
-        BancoDePruebas.experimentoCuatro();
+        // BancoDePruebas.experimentoUno();
+        // BancoDePruebas.experimentoDos();
+        // BancoDePruebas.experimentoTres();
+        // BancoDePruebas.experimentoCuatro();
     }
 
     private static void imprimirResumenIngesta(
